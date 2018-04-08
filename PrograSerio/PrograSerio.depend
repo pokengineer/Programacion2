@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1499656135 source:c:\users\facundo\desktop\progra\prograserio\colacircular.c
+	"ColaCircular.h"
+
+1499656123 c:\users\facundo\desktop\progra\prograserio\colacircular.h
+	<stdio.h>
+	<stdlib.h>
+	"info.h"
+
+1499700660 c:\users\facundo\desktop\progra\prograserio\info.h
+	<stdio.h>
+	<stdlib.h>
+
+1499720047 source:c:\users\facundo\desktop\progra\prograserio\main.c
+	"ColaCircular.h"
+	"PilaCircular.h"
+	"Lista.h"
+	"Arbol.h"
+
+1499660945 c:\users\facundo\desktop\progra\prograserio\pilacircular.h
+	"info.h"
+
+1499700494 source:c:\users\facundo\desktop\progra\prograserio\pilacircular.c
+	"PilaCircular.h"
+
+1499722519 source:c:\users\facundo\desktop\progra\prograserio\lista.c
+	"Lista.h"
+
+1499719178 c:\users\facundo\desktop\progra\prograserio\lista.h
+	"info.h"
+
+1499716379 source:c:\users\facundo\desktop\progra\prograserio\arbol.c
+	"Arbol.h"
+
+1499716373 c:\users\facundo\desktop\progra\prograserio\arbol.h
+	"info.h"
+
+1499716379 source:e:\progra\prograserio\arbol.c
+	"Arbol.h"
+
+1499716373 e:\progra\prograserio\arbol.h
+	"info.h"
+
+1499700660 e:\progra\prograserio\info.h
+	<stdio.h>
+	<stdlib.h>
+
+1499737385 source:e:\progra\prograserio\lista.c
+	"Lista.h"
+
+1499719178 e:\progra\prograserio\lista.h
+	"info.h"
+
+1500666372 source:e:\progra\prograserio\main.c
+	"ColaCircular.h"
+	"PilaCircular.h"
+	"Lista.h"
+	"Arbol.h"
+	"ListaDoble.h"
+
+1499656123 e:\progra\prograserio\colacircular.h
+	<stdio.h>
+	<stdlib.h>
+	"info.h"
+
+1499660945 e:\progra\prograserio\pilacircular.h
+	"info.h"
+
+1499700494 source:e:\progra\prograserio\pilacircular.c
+	"PilaCircular.h"
+
+1499738014 source:e:\progra\prograserio\colacircular.c
+	"ColaCircular.h"
+
+1500667670 source:e:\progra\prograserio\listadoble.c
+	"ListaDoble.h"
+
+1500667517 e:\progra\prograserio\listadoble.h
+	"info.h"
+
